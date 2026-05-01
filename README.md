@@ -7,7 +7,7 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Identify top revenue-generating hospitals
 * Analyze patient distribution across admission types
@@ -17,7 +17,7 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
@@ -46,7 +46,7 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Revenue contribution varies significantly across hospitals, indicating uneven patient distribution
 * Average hospital stay remains relatively stable (~15–17 days), suggesting standardized treatment timelines
@@ -56,7 +56,7 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 * Helps hospitals identify **high-revenue centers**
 * Supports **resource planning** using patient trends
@@ -71,7 +71,7 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Convert the dashboard into Power BI for advanced visualization
 * Add time-based trend analysis (monthly/seasonal patterns)
